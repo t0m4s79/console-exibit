@@ -16,6 +16,9 @@
 .row{
     margin-top: 5% !important;
 }
+.row-header{
+    margin-top: 0% !important;
+}
 .img {
     background: url(../media/gba.jpg) no-repeat center center;
 }
