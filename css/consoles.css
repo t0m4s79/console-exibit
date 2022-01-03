@@ -3,6 +3,32 @@
     margin-left: 15%;
 }
 
-.img {
+.img-gba
+{
     background: url(../media/gba.jpg) no-repeat center center;
+}
+
+.img-lynx
+{
+    background: url(../media/lynx.jpg) no-repeat center center;
+}
+
+.img-ws
+{
+    background: url(../media/ws.jpg) no-repeat center center;
+}
+
+.img-ngp
+{
+    background: url(../media/ngp.jpg) no-repeat center center;
+}
+
+.img-ng
+{
+    background: url(../media/ng.jpg) no-repeat center center;
+}
+
+.img-sgg
+{
+    background: url(../media/sgg.jpg) no-repeat center center;
 }
