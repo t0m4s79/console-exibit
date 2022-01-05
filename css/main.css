@@ -57,7 +57,7 @@ nav a{
     color: rgb(255, 255, 255);
 }
 
-.nav li:hover, li:hover{
+nav li:hover, nav li:hover{
     background-color: rgba(109, 109, 109, 0.472);
   }
 
@@ -65,7 +65,7 @@ nav a{
 /*          dropdown menu           */
 /*----------------------------------*/
 
-.nav a:hover, .dropdown:hover{
+nav a:hover, .dropdown:hover{
     background-color: rgba(109, 109, 109, 0.472);
 }
 
