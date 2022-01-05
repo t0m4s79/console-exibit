@@ -3,32 +3,92 @@
     margin-left: 15%;
 }
 
+.img-gb
+{
+    background: url(../media/gb.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
 .img-gba
 {
     background: url(../media/gba.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
 .img-lynx
 {
     background: url(../media/lynx.png) no-repeat center center;
+    background-size: 100% auto;
 }
 
 .img-ws
 {
     background: url(../media/ws.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
 .img-ngp
 {
     background: url(../media/ngp.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
 .img-ng
 {
     background: url(../media/ng.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
 
 .img-sgg
 {
     background: url(../media/sgg.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-gcw
+{
+    background: url(../media/gcw.png) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-giz
+{
+    background: url(../media/giz.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-md
+{
+    background: url(../media/md.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-microvision
+{
+    background: url(../media/microvision.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-nomad
+{
+    background: url(../media/nomad.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-te
+{
+    background: url(../media/te.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-w
+{
+    background: url(../media/watara.jpg) no-repeat center center;
+    background-size: 100% auto;
+}
+
+.img-gp32
+{
+    background: url(../media/gp32.jpg) no-repeat center center;
+    background-size: 100% auto;
 }
