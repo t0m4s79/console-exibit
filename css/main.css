@@ -63,17 +63,14 @@ nav a{
     color: rgb(255, 255, 255);
 }
 
-nav li:hover, nav li:hover{
+nav li:hover{
     background-color: rgba(109, 109, 109, 0.472);
+    transition: 0.25s ease-in;
   }
 
 /*----------------------------------*/
 /*          dropdown menu           */
 /*----------------------------------*/
-
-nav a:hover, .dropdown:hover{
-    background-color: rgba(109, 109, 109, 0.472);
-}
 
 .dropdown {
     display: inline-block;
